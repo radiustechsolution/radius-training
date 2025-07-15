@@ -7,7 +7,7 @@ export const Hero = () => {
   return (
     <section className="flex flex-col curved-gradient items-center ">
       <Navbar />
-      <div className="max-w-[1350px] px-5 md:px-10 py-20 sm:py-28 w-full flex flex-col md:flex-row items-center gap-8 ">
+      <div className="max-w-[1350px] px-5 md:px-10 py-16 sm:py-28 w-full flex flex-col md:flex-row items-center gap-8 ">
         {/* Left */}
         <div className="basis-full md:basis-[50%] ">
           <ProductivityHero />
