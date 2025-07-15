@@ -22,7 +22,7 @@ export const Hero = () => {
             day.
           </p>
           {/* Buttons */}
-          <div className="flex items-center justify-center mt-8 gap-4">
+          <div className="flex items-center justify-center md:justify-normal mt-8 gap-4">
             <button className="rounded-full bg-primary text-white text-[14px] px-6 py-3">
               Join now
             </button>
