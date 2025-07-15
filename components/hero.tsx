@@ -12,12 +12,12 @@ export const Hero = () => {
         <div className="basis-full md:basis-[50%] ">
           <ProductivityHero />
           <p className="mt-16 hidden md:block text-[14px] md:text-[13px] lg:text-[15px] font-medium">
-            Let's make your work more organize and easily using <br /> the
+            Let&apos;s make your work more organize and easily using <br /> the
             Taskio Dashboard with many of the latest <br /> featuresin managing
             work every day.
           </p>
           <p className="mt-16 md:hidden text-center text-[15px] md:text-[13px] opacity-70 lg:text-[15px] font-normal">
-            Let's make your work more organize and easily using the Taskio
+            Let&apos;s make your work more organize and easily using the Taskio
             Dashboard with many of the latest featuresin managing work every
             day.
           </p>
